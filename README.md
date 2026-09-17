@@ -1,5 +1,5 @@
 # 💫 About Me:
-A detail-oriented Software Developer with 3+ years of experience in building and optimizing scalable cloud-based SaaS platforms using Java and microservice architecture.<br>
+A DevOps Engineer with 3+ years of experience in building and optimizing scalable cloud-based SaaS platforms using Java and microservice architecture.<br>
 
 
 ## 🌐 Socials:
