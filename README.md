@@ -1,5 +1,6 @@
 # 💫 About Me:
-A DevOps Engineer with 3+ years of experience in building and optimizing scalable cloud-based SaaS platforms using Java and microservice architecture.<br>
+DevOps Engineer with 3+ years of experience building and supporting enterprise applications with hands on DevOps experience in AWS, Docker, Kubernetes, Terraform, GitHub Actions, and Infrastructure as Code. 
+Skilled in application deployment, production support, CI/CD, cloud environments, and automation to deliver secure, scalable, and highly available solutions.<br>
 
 
 ## 🌐 Socials:
