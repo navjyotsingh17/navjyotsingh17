@@ -101,7 +101,7 @@ Auto-regenerated nightly at **3 AM IST** (no token needed).
 
 <!-- ── Single snake SVG — one graph, no duplicates ── -->
 <p align="center">
-  <img alt="Snake Contribution Graph" src="assets/snake.svg" width="100%"/>
+  <img alt="Snake Contribution Graph" src="assets/snake_dark.svg" width="100%"/>
 </p>
 
 <!-- ── Activity graph — the glowing green progress bar ── -->
