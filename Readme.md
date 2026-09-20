@@ -1,0 +1,175 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:05010F,30:0B132B,65:1C2541,100:00F5FF&text=NAVJYOTSINGH%20PULAHA&fontColor=ffffff&fontSize=52&animation=fadeIn&fontAlignY=36&desc=DevOps%20Engineer%20%E2%80%A2%20Cloud%20Engineer%20%E2%80%A2%20Automation%20Engineer&descAlignY=58&descSize=16&descColor=00F5FF"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=1000&color=00F5FF&center=true&vCenter=true&width=950&lines=%3E+INITIALIZING+SYSTEM+CORE...;%3E+DevOps+Engineer+%7C+Cloud+Engineer;%3E+AWS+%7C+Docker+%7C+Kubernetes+%7C+Terraform;%3E+CI%2FCD+Automation+%26+Infrastructure+as+Code;%3E+Linux+%7C+Git%2FGitHub+%7C+Python+%7C+Bash;%3E+Building+Scalable%2C+Reliable+Cloud+Systems!"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/STATUS-SYSTEM_ONLINE_🟢-05010F?style=for-the-badge&logoColor=00F5FF&labelColor=05010F&color=00F5FF"/>
+  <img src="https://img.shields.io/badge/CLEARANCE-DEVOPS_READY-05010F?style=for-the-badge&logoColor=FF00E5&labelColor=05010F&color=FF00E5"/>
+  <img src="https://komarev.com/ghpvc/?username=itsdev-001&label=SYS_VIEWS&style=for-the-badge&color=7C1FD6&labelColor=05010F"/>
+  <img src="https://img.shields.io/github/followers/itsdev-001?style=for-the-badge&logo=github&logoColor=white&color=00F5FF&labelColor=05010F"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
+</p>
+
+---
+
+### ⚡ System Core Diagnostics
+
+```yaml
+┌── [ SYSTEM INFORMATION // NAVJYOT_OS_v1.0 ] ────────────────────────────┐
+│                                                                         │
+│  • Identity        : Navjyot                                            │ 
+│  • Role            : DevOps Engineer • Cloud Engineer • Automation Eng. │
+│  • Academics       : B.E in EXTC                                        │
+│  • Institution     : F.C.R.I.T                                          │
+│  • Core Domains    : Cloud & DevOps Engineering — AWS, Docker,          │
+│                      Kubernetes, Terraform, Linux, Git/GitHub, CI/CD    │
+│  • Active Protocol : Zero-downtime CI/CD & multi-region DR architecture │
+│  • Mission Logic   : "Automate infrastructure, build reliable           │
+│                      deployment pipelines, and create scalable          │
+│                      cloud systems."                                    │
+│                                                                         │
+└─────────────────────────────────────────────────────────────────────────┘
+```
+
+---
+
+### 🎛️ Developer Proficiency Matrix
+
+```text
+ Skill                             Progress              %     Level
+ ──────────────────────────────────────────────────────────────────────
+ ⚙️  DevOps & Automation           ████████████████░░░░  80%  [ADVANCED]
+ ☁️  AWS / Cloud                   ███████████████░░░░░  75%  [PROFICIENT]
+ 🐳 Docker & Containers            ██████████████░░░░░░  70%  [PROFICIENT]
+ ☸️  Kubernetes                    █████████████░░░░░░░  65%  [DEVELOPING]
+ 🏗️  Terraform / IaC               ████████████░░░░░░░░  60%  [INTERMEDIATE]
+ 🐧 Linux / Bash                   ███████████░░░░░░░░░  55%  [LEARNING]
+ 🔄 GitHub Actions / CI-CD         ██████████░░░░░░░░░░  50%  [EXPLORING]
+```
+
+---
+
+### 🛠️ Tech Ecosystem
+
+#### ☁️ Cloud, DevOps & Infrastructure
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,linux,git,github,githubactions"/>
+</p>
+
+#### 🐍 Languages & Scripting
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,bash"/>
+</p>
+
+#### 🧰 Developer Toolkit
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,linux"/>
+</p>
+
+---
+
+### 🚀 Active Missions & Featured Projects
+
+| 🛸 Project | 🛰️ Architecture & Tech | 📄 Description |
+|:---|:---|:---|
+| **Open Telemetry** | `GitHub Actions` `Docker` `Kubernetes` `ArgoCD` | Engineered Docker containerization for Java, Go, and Python based micro services, streamlining CI/CD automation using GitOps. |
+| **AWS Infrastructure provisioning using Terrafrom** | `AWS` `Terraform` | Configured dynamic AWS infrastructure through Terraform, implementing VPC, subnets, route tables, IGW, security groups, EC2 instances, S3 buckets, and Application Load Balancer, resulting in performance monitoring efficiency. |
+| **AWS Cost Optimization** | `AWS` `Lambda` | Implemented a lambda function in AWS to identify and delete stale resources from AWS account in order to increase resource optimization. |
+
+---
+
+### 🐍 GitHub Performance & Live Snake Contribution Graph
+
+A **green open-mouthed snake** with forked tongue slithers across my real
+contribution grid — every tile I committed on gets **struck**, flashes
+neon-green → orange → red, then settles back to healthy green.
+Auto-regenerated nightly at **3 AM IST** (no token needed).
+
+<!-- ── Single snake SVG — one graph, no duplicates ── -->
+<p align="center">
+  <img alt="Snake Contribution Graph" src="assets/snake.svg" width="100%"/>
+</p>
+
+<!-- ── Activity graph — the glowing green progress bar ── -->
+<!-- <p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=itsdev-001&bg_color=0d1117&color=3ddc6a&line=3ddc6a&point=adffd4&area=true&area_color=1a6b33&hide_border=true&radius=8&custom_title=Contribution%20Activity"
+    width="100%"
+    alt="Contribution Activity Graph"
+  />
+</p> -->
+
+<!-- ── Streak stats ── -->
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=navjyotsingh17&theme=tokyonight&hide_border=true&background=05010F&ring=00F5FF&fire=FF00E5&currStreakLabel=00F5FF&sideLabels=94A3B8&dates=94A3B8&currStreakNum=00F5FF" width="85%"/>
+</p>
+
+---
+
+<!-- ### 🎖️ Certifications & Credentials
+
+- ☁️ **AWS Certified Solutions Architect – Associate** — *Amazon Web Services*
+- ☁️ **AWS Certified Cloud Practitioner** — *Amazon Web Services*
+- 🎓 **B.Tech in Computer Science Engineering** — *KIET Deemed to be University* -->
+
+---
+
+### 🛰️ Telemetry & Daily Workflow
+
+```text
+┌──────────────┐       ┌──────────────┐       ┌──────────────┐
+│  01. DESIGN  │ ───►  │  02. CODE    │ ───►  │  03. TEST    │
+│ Architecture │       │ Clean Logic  │       │ Unit & Integ │
+└──────────────┘       └──────────────┘       └──────────────┘
+                                                     │
+┌──────────────┐       ┌──────────────┐              ▼
+│  06. OPTIMIZE│ ◄───  │  05. MONITOR │ ◄───  ┌──────────────┐
+│  Scale & Ref │       │  CI/CD Logs  │       │  04. DEPLOY  │
+└──────────────┘       └──────────────┘       │  Cloud / AWS │
+       │                                      └──────────────┘
+       └─────────────────────────────────────────────► [REPEAT 🔁]
+```
+
+---
+
+### 📡 Connect
+
+<p align="center">
+  <a href="https://github.com/navjyotsingh17" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-00F5FF?style=for-the-badge&logo=github&logoColor=05010F&labelColor=05010F"/>
+  </a>
+  <a href="https://www.linkedin.com/in/navjyotsingh-pulaha" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=05010F"/>
+  </a>
+  <a href="mailto:navjyotsinghpulaha@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=05010F"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:05010F,50:1C2541,100:00F5FF&height=120&section=footer"/>
+</p>
+
+<p align="center">
+  <i>"Automate everything you can, deploy with confidence, and build infrastructure that scales."</i>
+</p>
+
+<h3 align="center">
+  ⚡ SYSTEM READY // ALWAYS BUILDING ⚡
+</h3>
