@@ -1,0 +1,47 @@
+name: Daily Contribution Graph & Snake Animation
+
+on:
+  schedule:
+    - cron: '30 21 * * *'   # 3:00 AM IST daily
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - '.github/workflows/daily-green-graph.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  update-daily-graph:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fetch-depth: 0
+
+      - name: Ensure Assets Directory Exists
+        run: mkdir -p assets
+
+      - name: Generate Contribution Snake Animation
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            assets/snake.svg
+
+      - name: Update Daily Timestamp
+        run: date -u +"%Y-%m-%d %H:%M:%S UTC" > assets/.daily-bump
+
+      - name: Commit and Push
+        run: |
+          git config --global user.name "navjyotsingh17"
+          git config --global user.email "navjyotpulaha@gmail.com"
+          git add assets/
+          git commit -m "chore(activity): daily graph bump [skip ci]" || git commit --allow-empty -m "chore(activity): daily bump [skip ci]"
+          git push origin main
